@@ -9,3 +9,11 @@
                
            The saved ML model link:
            https://drive.google.com/file/d/1VpdTzwCAlXcPVrghrDXHmZXjPDtjpyjB/view?usp=sharing
+          
+3.CSV files for training model:
+            
+            cleaned text:
+            https://drive.google.com/file/d/11Ifj8cgUMqE0Di_Ul_1WKKsfaK9h5cOC/view?usp=sharing
+            
+            tweets.csv:
+            https://drive.google.com/file/d/1iwh9nJtp7KysFabrRxWMOQq0oDXikUvt/view?usp=sharing
